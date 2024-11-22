@@ -1,0 +1,4 @@
+C:\Users\Thanush\OneDrive\Desktop\New\Matrix\Matrix\bin\Debug\Matrix.exe
+C:\Users\Thanush\OneDrive\Desktop\New\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Thanush\OneDrive\Desktop\New\Matrix\Matrix\obj\x86\Debug\Matrix.exe
+C:\Users\Thanush\OneDrive\Desktop\New\Matrix\Matrix\obj\x86\Debug\Matrix.pdb

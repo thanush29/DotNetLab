@@ -1,0 +1,4 @@
+C:\Users\Thanush\OneDrive\Desktop\New\STRUCTURE\STRUCTURE\bin\Debug\STRUCTURE.exe
+C:\Users\Thanush\OneDrive\Desktop\New\STRUCTURE\STRUCTURE\bin\Debug\STRUCTURE.pdb
+C:\Users\Thanush\OneDrive\Desktop\New\STRUCTURE\STRUCTURE\obj\x86\Debug\STRUCTURE.exe
+C:\Users\Thanush\OneDrive\Desktop\New\STRUCTURE\STRUCTURE\obj\x86\Debug\STRUCTURE.pdb

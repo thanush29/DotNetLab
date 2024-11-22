@@ -1,0 +1,4 @@
+C:\Users\Thanush\OneDrive\Desktop\New\Student_Status\Student_Status\bin\Debug\Student_Status.exe
+C:\Users\Thanush\OneDrive\Desktop\New\Student_Status\Student_Status\bin\Debug\Student_Status.pdb
+C:\Users\Thanush\OneDrive\Desktop\New\Student_Status\Student_Status\obj\x86\Debug\Student_Status.exe
+C:\Users\Thanush\OneDrive\Desktop\New\Student_Status\Student_Status\obj\x86\Debug\Student_Status.pdb

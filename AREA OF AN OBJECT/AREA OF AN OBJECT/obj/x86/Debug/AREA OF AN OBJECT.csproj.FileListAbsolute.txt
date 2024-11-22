@@ -1,0 +1,4 @@
+C:\Users\Thanush\OneDrive\Desktop\New\AREA OF AN OBJECT\AREA OF AN OBJECT\bin\Debug\AREA OF AN OBJECT.exe
+C:\Users\Thanush\OneDrive\Desktop\New\AREA OF AN OBJECT\AREA OF AN OBJECT\bin\Debug\AREA OF AN OBJECT.pdb
+C:\Users\Thanush\OneDrive\Desktop\New\AREA OF AN OBJECT\AREA OF AN OBJECT\obj\x86\Debug\AREA OF AN OBJECT.exe
+C:\Users\Thanush\OneDrive\Desktop\New\AREA OF AN OBJECT\AREA OF AN OBJECT\obj\x86\Debug\AREA OF AN OBJECT.pdb

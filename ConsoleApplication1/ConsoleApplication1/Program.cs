@@ -1,0 +1,37 @@
+﻿using System;
+
+namespace Voter
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string vname;
+            int age;
+
+            try
+            {
+                Console.Write("Enter your Name: ");
+                vname = Console.ReadLine();
+
+                Console.Write("Enter your Age: ");
+                age = int.Parse(Console.ReadLine());
+
+                if (age >= 18)
+                {
+                    Console.WriteLine($"Hi {vname}, your age is greater than or equal to 18, so you are eligible to vote.");
+                }
+                else
+                {
+                    Console.WriteLine($"Sorry {vname}, your age is less than 18, so you are not eligible to vote.");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Exception is: {ex.Message}");
+            }
+
+            Console.ReadLine();
+        }
+    }
+}

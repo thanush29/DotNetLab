@@ -1,0 +1,4 @@
+C:\Users\Thanush\OneDrive\Desktop\New\FACTORIAL\FACTORIAL\bin\Debug\FACTORIAL.exe
+C:\Users\Thanush\OneDrive\Desktop\New\FACTORIAL\FACTORIAL\bin\Debug\FACTORIAL.pdb
+C:\Users\Thanush\OneDrive\Desktop\New\FACTORIAL\FACTORIAL\obj\x86\Debug\FACTORIAL.exe
+C:\Users\Thanush\OneDrive\Desktop\New\FACTORIAL\FACTORIAL\obj\x86\Debug\FACTORIAL.pdb
